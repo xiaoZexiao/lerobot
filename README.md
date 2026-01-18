@@ -2,9 +2,9 @@
 
 ## 简介
 
-`drag_and_record.py` 是一个用于 SO-101 Follower 机械臂的单臂拖拽录制脚本。
+`drag_and_record.py` （没有使用归一化参数）和`drag_and_record_v2.py` 是一个用于 SO-101 Follower 机械臂的单臂拖拽录制脚本。
 
-**作者**：[你的名字]  
+**作者**：xiao  
 **日期**：2026年1月
 
 ## 为什么创建这个脚本？
